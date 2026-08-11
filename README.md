@@ -1,52 +1,89 @@
-# SYSTEM OPERATOR // PROFILE NODE: SKULDEXTER-WEB
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=500&lines=INITIALIZING+SECURITY+NODE...;ACCESS+GRANTED+TO+SKULDEXTER-WEB;PENTEST+MATRIX+ONLINE;CYBERSECURITY+HOBBYIST" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=500&lines=INITIALIZING+SECURITY+NODE...;ACCESS+GRANTED+TO+SKULDEXTER-WEB;PENTEST+CONSOLE+ONLINE;CYBERSECURITY+HOBBYIST" alt="Typing SVG" />
 
-<br>
+<!-- HEADER ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=220&section=header&text=SKULDEXTER-WEB&fontSize=50&fontColor=60a5fa&animation=twinkling&desc=SYSTEM%20OPERATOR%20%7C%7C%20CYBERSECURITY%20LABS&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
 
-@@ -11,7 +11,7 @@
----
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+SECURITY+NODE...;%3E+ACCESS+GRANTED+TO+SKULDEXTER-WEB;%3E+PENTEST+CONSOLE+ONLINE;%3E+CYBERSECURITY+HOBBYIST+%26+ETHICAL+HACKER" alt="Typing SVG" />
+</a>
 
-### Mission Briefing
-Professionally credentialed with an IT degree, operating purely as a dedicated hobbyist, pentester, and cybersecurity hacking enthusiast. Focus lies within exploring security architectures, vulnerability research, and tactical defense concepts inside isolated lab environments.
-I am professionally credentialed with an IT degree, operating purely as a dedicated hobbyist, pentester, and cybersecurity hacking enthusiast. My focus lies within exploring security architectures, vulnerability research, and tactical defense concepts inside isolated lab environments.
+<br/>
 
-* **Status:** Active Security Monitoring
-* **Credentials:** IT Degree Holder
-@@ -20,30 +20,26 @@ Professionally credentialed with an IT degree, operating purely as a dedicated h
+<!-- BADGES / SYSTEM STATUS -->
+![Status](https://img.shields.io/badge/NODE_STATUS-ACTIVE_MONITORING-00F5FF?style=for-the-badge&logo=shield&logoColor=black)
+![Credentials](https://img.shields.io/badge/CREDENTIALS-IT_DEGREE_HOLDER-3B82F6?style=for-the-badge&logo=academiccap&logoColor=white)
+![Clearance](https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_4-10B981?style=for-the-badge&logo=lock&logoColor=white)
 
----
-
-### Telemetrie & Real-Time Statistieken
-### Telemetry & Real-Time Statistics
-
-The parameters below are synced in real-time with your active GitHub node metrics:
-The parameters below are synced in real-time with my active GitHub node metrics:
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=skuldexter-web&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
 </div>
 
 ---
 
-### Contribution Matrix Arcade
-### Contribution Snake
+### 🛡️ Mission Briefing
 
-> This retro animation reflects your platform deployment frequency, translating your activity grid into a dynamic simulation:
-This retro animation reflects my platform deployment frequency, translating my activity grid into a dynamic simulation:
+```console
+[SYS_INFO]: OPERATOR IDENTIFIED -> SKULDEXTER-WEB
+[SYS_INFO]: DEGREE -> IT & INFRASTRUCTURE
+[SYS_INFO]: MODE -> PENTESTING & CYBERSECURITY RESEARCH
+```
+
+Professionally credentialed with an **IT degree**, operating purely as a dedicated hobbyist, pentester, and cybersecurity enthusiast. My focus lies within exploring security architectures, vulnerability research, exploit analysis, and tactical defense concepts inside isolated lab environments.
+
+* 🎯 **Primary Focus:** Offensive Security, Network Penetration Testing & Defensive Hardening.
+* 🧪 **Lab Environment:** Virtualized Cyber Ranges, CTF Challenges & Vulnerability Analysis.
+* ⚡ **System Philosophy:** *"Security is not a product, but a process."*
+
+---
+
+### 🛠️ Tactical Toolset & Arsenal
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/skuldexter-web/skuldexter-web/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **OS & Security Distros** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kali-linux&logoColor=white) ![Parrot](https://img.shields.io/badge/Parrot_OS-00DAE6?style=flat-square&logo=parrot-security&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) |
+| **Security & Recon** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-113A5C?style=flat-square&logo=metasploit&logoColor=white) |
+| **Scripting & Automation** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Infrastructure & Hardware** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) ![RF/Radio](https://img.shields.io/badge/RF_Communications-LPD433_%7C_PMR446-00F5FF?style=flat-square&logo=radio&logoColor=black) |
+
 </div>
 
 ---
 
-### Connected Nodes
-External network gateways for verification:
-* **[Access Lnk.bio Hub](https://lnk.bio/skuldexter-web)** — Primary external routing node.
+### 📊 Telemetry & Real-Time Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=skuldexter-web&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=38BDF8&icon_color=00F5FF" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skuldexter-web&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="Top Languages" height="170" />
+
+</div>
+
+---
+
+### 🎮 Contribution Matrix Arcade
+
+> *This retro animation reflects platform deployment frequency, translating activity grid telemetry into a dynamic simulation:*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/skuldexter-web/skuldexter-web/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+---
+
+### 🌐 Connected Nodes & External Gateways
+
+<div align="center">
+
+[![Lnk.bio Hub](https://img.shields.io/badge/PRIMARY_HUB-LNK.BIO-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/skuldexter-web)
+
+</div>
+
+<br/>
 
 <div align="right">
-<sub>*System telemetry is stable. End of transmission.*</sub>
+<code>[SYSTEM TELEMETRY STABLE // END OF TRANSMISSION]</code>
 </div>
+
+<!-- FOOTER ANIMATED WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f172a&height=100&section=footer" width="100%" alt="Footer Wave" />
