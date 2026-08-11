@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=220&section=header&text=SKULDEXTER-WEB&fontSize=50&fontColor=60a5fa&animation=twinkling&desc=SYSTEM%20OPERATOR%20%7C%7C%20CYBERSECURITY%20LABS&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=220&section=header&text=S%E2%B1%A3U%E2%B1%A0%C3%90&fontSize=50&fontColor=60a5fa&animation=twinkling&desc=WHAT%20SHOULD%20BE,%20OR%20SHOULD%20NOT&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛡️ Mission Briefing
+### Mission Briefing
 
 ```console
 [SYS_INFO]: OPERATOR IDENTIFIED -> SKULDEXTER-WEB
@@ -29,13 +29,13 @@
 
 Professionally credentialed with an **IT degree**, operating purely as a dedicated hobbyist, pentester, and cybersecurity enthusiast. My focus lies within exploring security architectures, vulnerability research, exploit analysis, and tactical defense concepts inside isolated lab environments.
 
-* 🎯 **Primary Focus:** Offensive Security, Network Penetration Testing & Defensive Hardening.
-* 🧪 **Lab Environment:** Virtualized Cyber Ranges, CTF Challenges & Vulnerability Analysis.
-* ⚡ **System Philosophy:** *"Security is not a product, but a process."*
+* **Primary Focus:** Offensive Security, Network Penetration Testing & Defensive Hardening.
+* **Lab Environment:** Virtualized Cyber Ranges, CTF Challenges & Vulnerability Analysis.
+* **System Philosophy:** *"Security is not a product, but a process."*
 
 ---
 
-### 🛠️ Tactical Toolset & Arsenal
+### Tactical Toolset & Arsenal
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Professionally credentialed with an **IT degree**, operating purely as a dedicat
 
 ---
 
-### 📊 Telemetry & Real-Time Statistics
+### Telemetry & Real-Time Statistics
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Professionally credentialed with an **IT degree**, operating purely as a dedicat
 
 ---
 
-### 🎮 Contribution Matrix Arcade
+### Contribution Matrix Arcade
 
 > *This retro animation reflects platform deployment frequency, translating activity grid telemetry into a dynamic simulation:*
 
@@ -71,11 +71,11 @@ Professionally credentialed with an **IT degree**, operating purely as a dedicat
 
 ---
 
-### 🌐 Connected Nodes & External Gateways
+### Connected Nodes & External Gateways
 
 <div align="center">
 
-[![Lnk.bio Hub](https://img.shields.io/badge/PRIMARY_HUB-LNK.BIO-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/skuldexter-web)
+[![PRIMARY GATEWAY](https://img.shields.io/badge/PRIMARY_GATEWAY-WORKERS.DEV-8A2BE2?style=for-the-badge&logo=cloudflare&logoColor=white)](https://sk7ld.skuldexter.workers.dev)
 
 </div>
 
