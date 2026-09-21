@@ -9,10 +9,6 @@
 
 ---
 
-[![WDGWars](https://wdgwars.pl/card/4894-474DGJUV.svg)](https://wdgwars.pl/)
-
-——-
-
 **NODE STATUS:** Active Monitoring &nbsp;|&nbsp; **CREDENTIALS:** IT Degree Holder &nbsp;|&nbsp; **SECURITY CLEARANCE:** Level 4
 
 ---
